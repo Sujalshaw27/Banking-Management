@@ -1,2 +1,2 @@
 # Banking-Management
-Developed a banking mangement Application Using PYTHON
+Developed a banking mangement application  Using PYTHON
