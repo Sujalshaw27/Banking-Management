@@ -1,2 +1,2 @@
 # Banking-Management
-Developed a banking mangement application  Using PYTHON
+Developed a streamlit-based CRUD Bank Management System using Python, JSON, and OOP
